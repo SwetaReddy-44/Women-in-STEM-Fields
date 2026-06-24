@@ -4,30 +4,6 @@ An interactive data visualization project built in Tableau to examine the gender
 
 ---
 
-## 📌 Table of Contents
-* [🎨 Dashboard Overview](#-dashboard-overview)
-* [📈 Key Visualizations & Insights](#-key-visualizations--insights)
-  * [1. Occupation Representation & Total Employment](#1-occupation-representation--total-employment)
-  * [2. Graduation Trends in CS & Engineering (2000-2015)](#2-graduation-trends-in-cs--engineering-2000-2015)
-  * [3. Education vs. Field of Work](#3-education-vs-field-of-work)
-  * [4. Career Pathway Alignment by Gender](#4-career-pathway-alignment-by-gender)
-  * [5. Salary Disparities by Gender & Ethnicity](#5-salary-disparities-by-gender--ethnicity)
-* [🗃️ Data Sources & Structure](#%EF%B8%8F-data-sources--structure)
-* [🛠️ Technical Implementation](#%EF%B8%8F-technical-implementation)
-* [🚀 How to View the Dashboard](#-how-to-view-the-dashboard)
-
----
-
-## 🎨 Dashboard Overview
-
-This Tableau dashboard is designed to highlight the systemic gender gap in STEM fields. By analyzing dataset trends across graduation rates, employment shares, educational levels, and annual earnings, the dashboard visually presents the major friction points preventing women's equal representation in high-paying technical fields.
-
-> [!TIP]
-> **View the Interactive Dashboard:** 
-> 🔗 **[Click here to view the live dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)** *(Replace this placeholder with your actual Tableau Public URL)*
-
----
-
 ## 📈 Key Visualizations & Insights
 
 The dashboard is structured vertically to guide the viewer through a narrative of representation, education, alignment, and finally compensation. Below are the key components and their corresponding data insights:
