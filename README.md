@@ -50,45 +50,5 @@ The dashboard is structured vertically to guide the viewer through a narrative o
 
 ---
 
-## 🗃️ Data Sources & Structure
-
-The workbook utilizes 5 specialized datasets (Project 1 data) to feed the visualizations:
-
-1. **Employed Persons:** Details demographics of the workforce.
-   * *Key Fields:* `Occupation`, `Total employed`, `Women (% of total)`, `White (%)`, `Black or African American (%)`, `Asian (%)`, `Hispanic or Latino (%)`.
-2. **Women Graduated:** Longitudinal graduation data (2000–2015).
-   * *Key Fields:* `Year`, `Engineering`, `Computer sciences`, `Physical sciences`, `Social sciences`, `Psychology`, `Biological and agricultural sciences`, `Mathematics and statistics`.
-3. **Stem jobs by Education:** Level of education by job type.
-   * *Key Fields:* `High school or less`, `Some college`, `Bachelor's degree`, `Master's degree`, `Professional Doctoral degree`.
-4. **Professional working in same major:** Tracks career alignment.
-   * *Key Fields:* `Profession`, `Men (%)`, `Women (%)`.
-5. **Median Annual Earnings:** Salary comparison.
-   * *Key Fields:* `Ethnicity`, `All (Dollars)`, `Men (Dollars)`, `Women (Dollars)`.
-
----
-
-## 🛠️ Technical Implementation
-
-* **Platform:** Tableau Desktop / Tableau Public
-* **Workbook Format:** `.twbx` (Tableau Packaged Workbook including data extracts)
-* **Interactions & Design:**
-  * Custom pastel-colored canvas panels (`#e9f3f2`, `#f3faf9`, `#faf5f0`, `#f6eee3`, `#f9eee8`) to separate findings visually.
-  * Solid structural borders (`border-width: 2px`) for a clean, report-style aesthetic.
-  * Interactive legends and dynamic tooltips to reveal exact percentages on hover.
-
----
-
-## 🚀 How to View the Dashboard
-
-### Option 1: Live Web View (Recommended)
-Simply click the Tableau Public link above to interact with the visualizations directly in your web browser.
-
-### Option 2: Local Tableau Software
-1. Clone this repository or download the workbook file: `Women in STEM fields.twbx`.
-2. Open the file using **Tableau Desktop** (v2020.1 or newer) or **Tableau Public** (Free version).
-3. If prompted, the packaged file already contains all necessary data extracts (no database configuration required).
-
----
-
-*Analysis and Dashboard created by **[Your Name]**.*
+*Analysis and Dashboard created by **[Sweta Reddy]**.*
 
