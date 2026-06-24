@@ -50,5 +50,11 @@ The dashboard is structured vertically to guide the viewer through a narrative o
 
 ---
 
+### 🛠️ Technical Implementation
+* **Platform:** Tableau Desktop / Tableau Public
+* **Workbook Format:** `.twbx` (Tableau Packaged Workbook including data extracts)
+
+---
+
 *Analysis and Dashboard created by **[Sweta Reddy]**.*
 
